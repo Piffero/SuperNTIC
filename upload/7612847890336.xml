@@ -1,0 +1,14 @@
+<sistema versao="1.02" xmlns="http://www.portalfiscal.inf.br/nfe">
+	<det>
+		<prod>
+			<cProd>53</cProd>
+			<cEAN>7612847890336</cEAN>
+			<xProd>Aparelho Cros</xProd>
+			<uCom>UN</uCom>
+			<uTrib>UN</uTrib>
+			<qTrib>0</qTrib>
+			<vUnCom>1500.000</vUnCom>
+			<vUnTrib>1500.000</vUnTrib>
+		</prod>
+	</det>
+</sistema>

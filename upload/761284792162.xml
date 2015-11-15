@@ -1,0 +1,14 @@
+<sistema versao="1.02" xmlns="http://www.portalfiscal.inf.br/nfe">
+	<det>
+		<prod>
+			<cProd>54</cProd>
+			<cEAN>761284792162</cEAN>
+			<xProd>Ambra M Hxo</xProd>
+			<uCom>UN</uCom>
+			<uTrib>UN</uTrib>
+			<qTrib>0</qTrib>
+			<vUnCom>15000.00</vUnCom>
+			<vUnTrib>15000.00</vUnTrib>
+		</prod>
+	</det>
+</sistema>
